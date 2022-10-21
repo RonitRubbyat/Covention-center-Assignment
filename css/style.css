@@ -8,3 +8,17 @@
     utilities
 ----------------*/
 
+
+/* main */
+/* sec-2 */
+.card-head{
+    color: #231D4F;
+}
+.card-text-color{
+    color: #848199;
+}
+.package-button{
+    border: none;
+    padding: 5px 61px;
+    border-radius: 24px;
+}
